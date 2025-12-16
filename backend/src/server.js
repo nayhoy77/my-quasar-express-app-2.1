@@ -24,8 +24,8 @@ app.get('/api/demo', (req, res) => {
 
   res.json({
     message: 'ยินดีต้อนรับสู่ Full-Stack',
-    studentName: 'ธีรศักดิ์ แก้วภา',
-    studentId: '6604101340',
+    studentName: 'รัตนโชติ ทองคต',
+    studentId: '6604101375',
     git: {
       title: 'Advanced Git Workflow',
       detail: 'ใช้ branch protection, code review, squash merge เพื่อ history สะอาด'
